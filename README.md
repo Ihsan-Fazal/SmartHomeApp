@@ -8,9 +8,13 @@ Company LinkedIn : https://www.linkedin.com/company/mywatt-co/
 ## Prerequisites
 Ensure you have the following installed:
 > Node.js (LTS version) - Download
+
 > pnpm (for package management)
+
 > Expo CLI (for development and testing)
+
 > Android Studio (for Android development)
+
 > Xcode (for iOS development on macOS)
 
 -- Install Dependencies
