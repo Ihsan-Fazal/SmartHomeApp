@@ -1,6 +1,6 @@
 # MyWatt - Smart Home Application
 
-MyWatt Smart Home App is designed to enhance smart home energy management by providing real-time energy monitoring, device automation and sustainability insights. The Application was developed using React Native for frontend, Python (flask) for backend functions and Supabase for database management. This was done over the course of 6 months as part of a university group project. I worked in developing backend functionalities for the application along with the database management.
+MyWatt Smart Home App is designed to enhance smart home energy management by providing real-time energy monitoring, device automation and sustainability insights. The Application was developed using React Native for frontend, Python (flask) for backend functions and Supabase for database management. This was done over the course of 6 months as part of a university group project. I mostly worked in developing backend functionalities for the application along with the database management.
 
 Company LinkedIn : https://www.linkedin.com/company/mywatt-co/
 
