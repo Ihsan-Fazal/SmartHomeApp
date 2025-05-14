@@ -7,11 +7,12 @@ Company LinkedIn : https://www.linkedin.com/company/mywatt-co/
 ## Installation and Set up
 ## Prerequisites
 Ensure you have the following installed:
-• Node.js (LTS version) - Download
-• pnpm (for package management)
-• Expo CLI (for development and testing)
-• Android Studio (for Android development)
-• Xcode (for iOS development on macOS)
+> Node.js (LTS version) - Download
+> pnpm (for package management)
+> Expo CLI (for development and testing)
+> Android Studio (for Android development)
+> Xcode (for iOS development on macOS)
+
 -- Install Dependencies
 1. Install pnpm globally:
 `npm install -g pnpm`
